@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://alijeewrites.github.io/instagram-captions-2026-guide/sitemap.xml
